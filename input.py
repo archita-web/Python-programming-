@@ -1,0 +1,5 @@
+name=input('name : ')
+print(name)
+age = int(input('age:'))
+price = float(input("price:"))
+print('my age is', age, 'my price is ', price)
